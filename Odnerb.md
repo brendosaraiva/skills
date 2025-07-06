@@ -23,9 +23,9 @@ Olá! Tudo bem? Estou prestes a finalizar o curso de Engenharia da computação,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendosaraiva&layout=compact&theme=transparent&bg_color=000&border_color=3EC70B&show_icons=true&icon_color=3EC70B&title_color=FF204E&text_color=FFF)
 
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/Focos-de-Queimadas-em-Rondonia)
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/BancoPy)
-![Codacy Badge](https://api.codacy.com/project/badge/Grade/AutomacaoForms)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f5de4efc075c4d9d84db640698799d55)](https://app.codacy.com/gh/brendosaraiva/Focos-de-Queimadas-em-Rondonia/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/33d1c0ceabab447385ed09d64a59b63c)](https://app.codacy.com/gh/brendosaraiva/BancoPy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/4460ed1c470146c6a8b9ce5253eb81f7)](https://app.codacy.com/gh/brendosaraiva/AutomacaoForms/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ### TCC Análise de Dados
 
