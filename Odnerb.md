@@ -21,9 +21,11 @@ Olá! Tudo bem? Estou prestes a finalizar o curso de Engenharia da computação,
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brendosaraiva&theme=transparent&bg_color=000&border_color=3EC70B&show_icons=true&icon_color=3EC70B&title_color=FF204E&text_color=FFF)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendosaraiva&layout=compact&theme=transparent&bg_color=000&border_color=3EC70B&show_icons=true&icon_color=3EC70B&title_color=FF204E&text_color=FFF)
+
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/Focos-de-Queimadas-em-Rondonia)
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/BancoPy)
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/AutomacaoForms)
 
 ### TCC Análise de Dados
 
